@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "185143203302",
+    "firebase_url": "https://onlinefoodorder-52064-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "onlinefoodorder-52064",
+    "storage_bucket": "onlinefoodorder-52064.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185143203302:android:5560ae337128b8cf3db227",
+        "android_client_info": {
+          "package_name": "com.example.mystore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185143203302-i6do1q2qt367eie1gb1jf30l127i3loc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChNipKlzYrXLKKtJy0lYNFcQPMBZasrYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185143203302-i6do1q2qt367eie1gb1jf30l127i3loc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
